@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Compressed/little-lemon-main/restaurant"
+		},
+		{
+			"path": "../../../Downloads/Compressed/little-lemon-main/static"
+		},
+		{
+			"path": "../../../Downloads/Compressed/little-lemon-main/templates"
+		},
+		{
+			"path": "../../../Downloads/Compressed/little-lemon-main/tests"
+		},
+		{
+			"path": "../../../Downloads/Compressed/little-lemon-main/workspace"
+		},
+		{
+			"path": "../../../Downloads/Compressed/little-lemon-main/littlelemon"
+		}
+	],
+	"settings": {}
+}
